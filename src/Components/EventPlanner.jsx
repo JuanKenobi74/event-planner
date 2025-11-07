@@ -7,6 +7,21 @@ const EventPlanner = () => {
             <header>
                 <h1>Welcome to Event Planner</h1>
             </header>
+            <section className="description">
+                {/* Description content goes here */}
+            </section>
+            <section className="events_categories">
+                {/* Event categories content goes here */}
+            </section>
+            <section className="features">
+                {/* Features content goes here */}
+            </section>
+            <section className="testimonials">
+                {/* Testimonials content goes here */}
+            </section>
+            <section className="contact">
+                {/* Contact content goes here */}
+            </section>
         </div>
     );
 };
